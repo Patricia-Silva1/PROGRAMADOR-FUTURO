@@ -27,4 +27,4 @@ O sistema consiste em uma interface web que simula comportamentos inteligentes p
 
 Você pode acessar o projeto diretamente através do link abaixo:
 
-🔗 [Visualizar projeto publicado]()
+🔗 [Visualizar projeto publicado](https://programador-futuro.vercel.app/)
